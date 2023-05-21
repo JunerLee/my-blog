@@ -1,7 +1,7 @@
 ---
 title: "windows和macos平台下单屏显示器切换信号源"
 date: 2023-05-21T15:37:32+08:00
-draft: true
+draft: false
 ---
 
 # 前言
